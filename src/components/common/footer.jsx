@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2025 Marcus Albuquerque. All Rights Reserved.
+						© 2025 Marcus Albuquerque. Todos os direitos reservados.
 					</div>
 				</div>
 			</div>

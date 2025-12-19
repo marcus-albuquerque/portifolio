@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
-
+import aboutImage from "../assets/about.jpg";
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
 import Logo from "../components/common/logo";
@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src={aboutImage}
 											alt="about"
 											className="about-image"
 										/>

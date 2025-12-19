@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Helmet } from "react-helmet";
-
+import homepageImage from "../assets/homepage.jpg";
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -105,8 +105,8 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
-											alt="about"
+											src={homepageImage}
+											alt="homepage"
 											className="homepage-image"
 										/>
 									</div>

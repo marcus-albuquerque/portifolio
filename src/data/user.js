@@ -1,10 +1,12 @@
+import logoImage from "../assets/logo.png";
+
 const INFO = {
-	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "barbosadealbuquerque@gmail.com",
-		logo: "../logo.png",
-	},
+    main: {
+        title: "Marcus Albuquerque",
+        name: "Marcus Albuquerque",
+        email: "barbosadealbuquerque@gmail.com",
+        logo: logoImage, 
+    },
 
 	socials: {
 		twitter: "https://twitter.com/",
