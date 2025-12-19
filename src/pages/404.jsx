@@ -28,17 +28,16 @@ const Notfound = () => {
 					<div className="notfound-container">
 						<div className="notfound-message">
 							<div className="notfound-title">
-								Oops! <FontAwesomeIcon icon={faFaceSadTear} />
+								Ops! <FontAwesomeIcon icon={faFaceSadTear} />
 							</div>
 							<div className="not-found-message">
-								We can't seem to find the page you're looking
-								for.
-								<br />
-								The requested URL "{window.location.href}" was
-								not found on this server.
+								Parece que não conseguimos encontrar a página
+								que você está procurando.
+								<br />A URL solicitada "{window.location.href}"
+								não foi encontrada neste servidor.
 							</div>
 							<a href="/" className="not-found-link">
-								Go back to the home page
+								Voltar para a página inicial
 							</a>
 						</div>
 					</div>
