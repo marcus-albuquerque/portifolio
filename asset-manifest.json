@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marcus-albuquerque/portifolio/static/css/main.547d776e.css",
+    "main.js": "/marcus-albuquerque/portifolio/static/js/main.18e98ddd.js",
+    "static/js/453.78086968.chunk.js": "/marcus-albuquerque/portifolio/static/js/453.78086968.chunk.js",
+    "index.html": "/marcus-albuquerque/portifolio/index.html",
+    "main.547d776e.css.map": "/marcus-albuquerque/portifolio/static/css/main.547d776e.css.map",
+    "main.18e98ddd.js.map": "/marcus-albuquerque/portifolio/static/js/main.18e98ddd.js.map",
+    "453.78086968.chunk.js.map": "/marcus-albuquerque/portifolio/static/js/453.78086968.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.547d776e.css",
+    "static/js/main.18e98ddd.js"
+  ]
+}
