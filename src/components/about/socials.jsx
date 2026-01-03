@@ -17,7 +17,7 @@ const Socials = () => {
 	return (
 		<div className="socials">
 			{/* <div className="social">
-				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
+				<a href={INFO.socials.twitter} target="_blank" rel="noopener noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
 							icon={faTwitter}
@@ -29,7 +29,7 @@ const Socials = () => {
 			</div> */}
 
 			<div className="social">
-				<a href={INFO.socials.github} target="_blank" rel="noreferrer">
+				<a href={INFO.socials.github} target="_blank" rel="noopener noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
 							icon={faGithub}
@@ -44,7 +44,7 @@ const Socials = () => {
 				<a
 					href={INFO.socials.linkedin}
 					target="_blank"
-					rel="noreferrer"
+					rel="noopener noreferrer"
 				>
 					<div className="social-icon">
 						<FontAwesomeIcon
@@ -60,7 +60,7 @@ const Socials = () => {
 				<a
 					href={INFO.socials.whatsapp}
 					target="_blank"
-					rel="noreferrer"
+					rel="noopener noreferrer"
 				>
 					<div className="social-icon">
 						<FontAwesomeIcon
@@ -77,7 +77,7 @@ const Socials = () => {
 					<a
 						href={`mailto:${INFO.main.email}`}
 						target="_blank"
-						rel="noreferrer"
+						rel="noopener noreferrer"
 					>
 						<div className="social-icon">
 							<FontAwesomeIcon icon={faEnvelope} />

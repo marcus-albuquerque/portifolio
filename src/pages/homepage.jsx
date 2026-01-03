@@ -118,7 +118,7 @@ const Homepage = () => {
 							{/* <a
 								href={INFO.socials.twitter}
 								target="_blank"
-								rel="noreferrer"
+								rel="noopener noreferrer"
 							>
 								<FontAwesomeIcon
 									icon={faTwitter}
@@ -128,7 +128,7 @@ const Homepage = () => {
 							<a
 								href={INFO.socials.github}
 								target="_blank"
-								rel="noreferrer"
+								rel="noopener noreferrer"
 							>
 								<FontAwesomeIcon
 									icon={faGithub}
@@ -138,7 +138,7 @@ const Homepage = () => {
 							{/* <a
 								href={INFO.socials.stackoverflow}
 								target="_blank"
-								rel="noreferrer"
+								rel="noopener noreferrer"
 							>
 								<FontAwesomeIcon
 									icon={faStackOverflow}
@@ -148,7 +148,7 @@ const Homepage = () => {
 							<a
 								href={INFO.socials.whatsapp}
 								target="_blank"
-								rel="noreferrer"
+								rel="noopener noreferrer"
 							>
 								<FontAwesomeIcon
 									icon={faWhatsapp}
@@ -158,7 +158,7 @@ const Homepage = () => {
 							<a
 								href={`mailto:${INFO.main.email}`}
 								target="_blank"
-								rel="noreferrer"
+								rel="noopener noreferrer"
 							>
 								<FontAwesomeIcon
 									icon={faMailBulk}
