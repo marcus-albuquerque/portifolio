@@ -160,13 +160,6 @@ Directory: `/src/data/`
     }
     ```
 
-## 📈 Google Analytics
-
-Add your Google Analytics 4 MEASUREMENT ID to `/src/data/tracking.js`.
-
-How to find the Google Analytics 4 MEASUREMENT ID ?
-
-[https://support.google.com/analytics/answer/9539598?hl=en](https://support.google.com/analytics/answer/9539598?hl=en)
 
 ## 🚀 Building the React App
 
