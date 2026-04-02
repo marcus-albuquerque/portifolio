@@ -9,12 +9,12 @@ const INFO = {
     },
 
 	socials: {
-		twitter: "https://twitter.com/",
+		twitter: "",
 		github: "https://github.com/marcus-albuquerque",
 		linkedin: "https://www.linkedin.com/in/marcus-vinicius-barbosa-de-albuquerque-b3766b214/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		instagram: "",
+		stackoverflow: "",
+		facebook: "",
 		whatsapp: "https://wa.me/5521991293045",
 	},
 
@@ -50,7 +50,7 @@ const INFO = {
 			title: "Jogo de Ficção Interativa, voltado para pessoas com ou sem qualquer tipo de deficiência visual",
 			description:
 				"Uma aventura narrativa de Ficção Interativa projetada para ser 100% inclusiva, unindo texto e áudio para atender a todos os jogadores. O projeto foca em acessibilidade total, permitindo que pessoas com ou sem deficiência visual explorem a história de forma imersiva e autônoma.",
-			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiHZHqZru2con9Ed7vlqvgNhgDyGBJUXkHOw&s",
+			logo: "https://godotengine.org/assets/logo_dark.svg",
 			linkText: "Ver Projeto",
 			link: "https://github.com/marcus-albuquerque/pa_interactive_fiction",
 		},
